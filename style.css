@@ -11,11 +11,21 @@
 }
 
 #contact {
-  background-color: #f3f4f5;
+  background-color: #cecece;
 }
 section {
   padding-top: 5rem;
 }
 footer {
   background-color: rgb(165, 165, 165);
+}
+.img-gallery {
+  width: 100%;
+}
+#gallery {
+  background-color: #f3f4f5;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
